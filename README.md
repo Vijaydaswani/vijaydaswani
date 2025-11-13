@@ -1,6 +1,6 @@
 👋 Hi, I'm Vijay Daswani
 Lead DevSecOps Engineer • AI Agent Builder • Multi-Cloud & Kubernetes Specialist
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&color=00E5FF&width=800&lines=Build+Smart.+Automate+Everything.;DevSecOps+%7C+Cloud+%7C+AI+Automation;Kubernetes+%7C+Terraform+%7C+Platform+Engineering;"> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&color=007B83&width=800&lines=Build+Smart.+Automate+Everything.;DevSecOps+%7C+Cloud+%7C+AI+Automation;Kubernetes+%7C+Terraform+%7C+Platform+Engineering;"> </p>
 
 ⚡ About Me
 
