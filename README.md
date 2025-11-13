@@ -1,104 +1,132 @@
-🖥️ Hi, I'm Vijay Daswani
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer;Platform+Architect;AI+Agent+Builder;Kubernetes+Wizard;Multi-Cloud+Specialist;Infrastructure+%E2%9A%A1+Automation+%E2%9A%A1;Build+Smart.+Automate+Everything." alt="Typing SVG" /> </p>
-🧑‍💻 About Me
-> whoami
-Lead DevSecOps Engineer | Multi-Cloud Architect | AI Automation Engineer
+👋 Hi, I'm Vijay Daswani
+Lead DevSecOps Engineer | Platform Architect | AI Automation Engineer | Multi-Cloud | Kubernetes | Blockchain Infra
 
-> skills --list
-AI Agents | DevOps | Kubernetes | Terraform | Platform Engineering | Security | Automation
+I’m a multi-cloud DevSecOps + Platform Engineering specialist who loves building production-grade, automated, secure, and intelligent systems.
+From Azure, GCP, Kubernetes, Terraform, GitHub Actions to AI Agents, Blockchain Infrastructure, and Security Engineering — I build end-to-end platforms that scale.
 
-> mission
-"Reduce manual work. Increase innovation. Automate everything."
+I also create content under Build & Automate, where I simplify AI, DevOps, Cloud, Infra, and Automation with humor, real examples, and powerful demos.
 
-🏆 Badges of Power
-<p align="left"> <img src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure&style=flat"> <img src="https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud&style=flat"> <img src="https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazonaws&style=flat"> <img src="https://img.shields.io/badge/Kubernetes-Expert-326CE5?logo=kubernetes&style=flat"> <img src="https://img.shields.io/badge/Terraform-Master-844FBA?logo=terraform&style=flat"> <img src="https://img.shields.io/badge/AI%20Agents-LangChain-00E5FF?style=flat"> <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions&style=flat"> </p>
-⚡ What I Actually Know (The Unfiltered Legendary Version)
-<details> <summary><h3>🤖 AI Automation & Agents (Click to expand)</h3></summary>
+🚀 What I Actually Do (Advanced)
+🧠 AI Automation & Agents
 
-AI Agents for Kubernetes, PR reviews, Infra, Security, Monitoring
+Build AI Agents for DevOps, Kubernetes, Infra, PR reviews, and Security
 
-RAG, LangChain, vector DBs, orchestrators
+RAG + LangChain + APIs + automations
 
-Auto-fix pipelines, auto-documenting infra, AI-driven incident analysis
+Intelligent CI/CD → automated fixes, architecture suggestions
 
-Contract redlining, playbook-driven automation
+AI-driven monitoring + anomaly alerts
 
-</details> <details> <summary><h3>⚙️ Platform Engineering</h3></summary>
+Contract redlining + policy-driven review agents
 
-Full platform design: infra → security → CI/CD → observability
+⚙️ Platform Engineering
 
-Developer Self-Service Platforms
+Design full platform layers: networking, security, infra, CI/CD, observability
 
-GitOps (ArgoCD, Kustomize)
+Golden paths, paved road setups, developer self-service
 
-Paved roads, golden paths, internal dev platforms
+GitOps with ArgoCD, Kustomize, multi-environment orchestration
 
-</details> <details> <summary><h3>☁️ Multi-Cloud Engineering</h3></summary>
+Internal Dev Platforms for teams (AKS/GKE)
 
-Azure (Hub–Spoke, private endpoints, governance, Landing Zones)
+☁️ Cloud Engineering (Azure, GCP, AWS)
 
-GCP workload platforms + GKE
+Landing Zones, Hub–Spoke, Private Links, VNet Peering
 
-AWS foundational infrastructure
+Enterprise security (IAM, RBAC, Policies, Compliance)
 
-Full enterprise security (IAM, RBAC, policies)
+Scalable Kubernetes platforms for production
 
-</details> <details> <summary><h3>🏗️ Infrastructure Engineering (Terraform GOD mode)</h3></summary>
+Cloud cost governance & optimization
 
-Terraform modular design patterns
+🏗️ Infrastructure as Code (IaC)
 
-Terragrunt, Otofu, tfenv workflows
+Terraform expert (modules, micro-modules, Terragrunt, Otofu workflows)
 
-IaC testing: Terratest, Checkov, compliance gates
+End-to-end infra automation pipelines
 
-Automated cross-cloud provisioning
+IaC testing (Terratest, Checkov), security gating
 
-</details> <details> <summary><h3>🛡️ DevSecOps & Security</h3></summary>
+Refactoring legacy IaC → modern standards
 
-IaC scanning, SBOM, supply-chain security
+🛡️ DevSecOps & Security Engineering
 
-Secrets management, governance automation
+IaC scanning, secrets mgmt, supply-chain security
 
-PR security pipelines
+PR/GitOps security automation
 
-SOX audits, policy-as-code
+DevSecOps frameworks and security guardrails
 
-</details> <details> <summary><h3>🌀 Kubernetes Architecture</h3></summary>
+Policy-as-code, audit automation, SOX controls
 
-AKS, GKE at scale
+🌀 Kubernetes Architecture
 
-CNI debugging (Calico, Azure CNI), IP exhaustion fixes
+AKS, GKE engineering at scale
 
-Ingress controllers, service mesh, autoscaling
+Node pools, autoscaling, security contexts, registries
 
-Production-ready secure clusters
+Service mesh, ingress gateways, internal load balancers
 
-</details> <details> <summary><h3>🧱 Blockchain Infrastructure</h3></summary>
+Debugging complex cluster issues (CNI, Calico, IP exhaustion)
 
-Besu, Quorum
+🧱 Blockchain Infrastructure
 
-Graph Node, IPFS
+Besu, Quorum, IPFS, Graph Node
 
-Token factory infra
+Smart contract infra automation
 
-Monitoring, logging, resilient cluster setups
+Monitoring + logging + alerting for blockchain clusters
 
-</details>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=azure,gcp,aws,kubernetes,docker,terraform,githubactions,git,python,bash,linux,prometheus,grafana" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"> </p>
+One-click environments for dev teams
+
+📊 Observability & Monitoring
+
+Datadog deep expertise
+
+Distributed tracing, logging pipelines
+
+Cloud metrics, availability SLOs, dashboards
+
+Performance tuning & reliability engineering
+
+🔁 CI/CD, Automation & Tooling
+
+GitHub Actions, Azure DevOps, Jenkins
+
+PR pipelines, infra pipelines, release pipelines
+
+Automated testing, build optimizations
+
+Artifact versioning, package mgmt, SBOM
+
+🧩 Core Philosophy
+
+Build Smart. Automate Everything.
+Make systems self-healing. Make developers faster. Make engineering fun.
+
+🛠️ Tech Universe
+
+Cloud: Azure · GCP · AWS
+Infra: Terraform · Terragrunt · Helm · Kustomize
+Containers: Docker · Kubernetes · AKS · GKE
+CI/CD: GitHub Actions · Azure DevOps · Jenkins · ArgoCD
+Security: Checkov · Trivy · SAST · DAST · Policy-as-Code
+Monitoring: Datadog · Prometheus · Grafana
+AI/ML: Python · LangChain · RAG · LLMs · Automations
+Blockchain: Besu · Quorum · Graph Node · IPFS
+Languages: Python · Bash · Go (intermediate) · YAML (pro-max 😄)
+
 🎬 Build & Automate
 
-🎥 AI, DevOps, Automation, Humor, Real Engineering
-👉 YouTube: add link
-👉 Instagram: devops.humor.io | build.automate.io
+Content + YouTube + Automation demos
+👉 https://www.youtube.com/@build_automate
+👉 https://medium.com/build-automate
 
-📫 Let’s Connect
+📫 Find Me Online
 
-💼 LinkedIn: add link here
-📧 Email: your email
+LinkedIn: [Vijay Daswani](https://www.linkedin.com/in/vijaydaswani11/)
+Instagram: [build.automate.io](https://www.instagram.com/build.automate.io/)
+            [vijay_daswani](https://www.instagram.com/vijay_daswani)
+Email: vijay.daswani@gmail.com
 
-⭐ **If my work helps you — star my repos.
-
-More stars = more insane projects released.**
+⭐ If my repos help you — star them! It motivates me to publish more advanced stuff.
